@@ -5,7 +5,7 @@ import android.app.Application;
 /**
  * Created by pengpeng on 2017/3/13.
  */
-
+//这是注释
 public class AppApplication extends Application {
     private static AppApplication app;
 
